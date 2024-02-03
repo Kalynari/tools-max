@@ -31,7 +31,7 @@
 
 ## 1. Overview
 
-__snarkOS__ is a decentralized operating system for zero-knowledge applications.
+__snarkOS__ is a decentralized operating system for zero-knowledge applications
 This code forms the backbone of [Aleo](https://aleo.org/) network,
 which verifies transactions and stores the encrypted state applications in a publicly-verifiable manner.
 
@@ -40,7 +40,7 @@ which verifies transactions and stores the encrypted state applications in a pub
 ### 2.1 Requirements
 
 The following are **minimum** requirements to run an Aleo node:
- - **OS**: 64-bit architectures only, latest up-to-date for security
+ - **OS**: 64-bit architectures only, latest up-to-date for security.
     - Clients: Ubuntu 22.04 (LTS), macOS Ventura or later, Windows 11 or later
     - Provers: Ubuntu 22.04 (LTS), macOS Ventura or later
     - Validators: Ubuntu 22.04 (LTS)
